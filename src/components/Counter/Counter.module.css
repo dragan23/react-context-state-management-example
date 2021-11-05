@@ -1,0 +1,9 @@
+.counter {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  padding-bottom: 50px;
+  text-align: center;
+}
